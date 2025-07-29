@@ -14,9 +14,9 @@ This is a simple command-line game written in Rust where the player tries to gue
 
 Make sure you have Rust installed. If not, install it from [rust-lang.org](https://www.rust-lang.org/).
 
-```bash
-cargo run
-
 ## Example screenshot
 
-![Example Screenshot](https://github.com/Umaralp/guessing_game/blob/main/screenshot-%20Guessing%20Game.png)
+![Example Screenshot](https://raw.githubusercontent.com/Umaralp/guessing_game/refs/heads/main/screenshot-%20Guessing%20Game.png)
+
+```bash
+cargo run
