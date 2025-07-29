@@ -17,3 +17,6 @@ Make sure you have Rust installed. If not, install it from [rust-lang.org](https
 ```bash
 cargo run
 
+## Example screenshot
+
+![Example Screenshot](https://github.com/Umaralp/guessing_game/blob/main/screenshot-%20Guessing%20Game.png)
