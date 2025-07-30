@@ -10,13 +10,14 @@ This is a simple command-line game written in Rust where the player tries to gue
 - The game continues in a loop until the correct number is guessed.
 - Invalid inputs (like letters or symbols) are handled gracefully.
 
-## 🛠 How to Run
-
-Make sure you have Rust installed. If not, install it from [rust-lang.org](https://www.rust-lang.org/).
-
 ## Example screenshot
 
 ![Example Screenshot](https://raw.githubusercontent.com/Umaralp/guessing_game/refs/heads/main/screenshot-%20Guessing%20Game.png)
+
+
+## 🛠 How to Run
+
+Make sure you have Rust installed. If not, install it from [rust-lang.org](https://www.rust-lang.org/).
 
 ```bash
 cargo run
